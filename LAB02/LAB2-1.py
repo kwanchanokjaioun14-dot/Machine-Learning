@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load Dataset
-df = pd.read_csv("fifa.csv")
+df = pd.read_csv("LAB02/fifa.csv")
 
 print("="*50)
 print("Shape")

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load Dataset
-df = pd.read_csv("fifa.csv")
+df = pd.read_csv("LAB02/fifa.csv")
 
 # Histogram
 plt.figure(figsize=(8,5))

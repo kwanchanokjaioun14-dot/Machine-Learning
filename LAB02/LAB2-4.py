@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 # Load Dataset
-df = pd.read_csv("fifa.csv")
+df = pd.read_csv("LAB02/fifa.csv")
 
 # ----------------------------
 # Label Encoding
